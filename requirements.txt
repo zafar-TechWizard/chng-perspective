@@ -1,0 +1,9 @@
+diffusers>=0.24.0
+transformers
+accelerate
+safetensors
+gradio
+requests
+tqdm
+xformers
+# omegaconf  # Sometimes needed for some models
